@@ -1,0 +1,12 @@
+Quando envio uma key e um token logadp
+Entao o sistema deve autenticar-se
+
+Quando crio um card com o nome "<card name>"
+Entao o card deve estar na lista
+
+Quando edito um card com o nome "<card name>"
+Entao o card deve estar na lista com nome alterado
+
+Quando excluo o card
+Entao o card não existe mais
+
