@@ -1,9 +1,9 @@
 /// <reference types="cypress" />
 
 describe('auth', () => {
-    let key = '4fb8ac5699888dab0b66c8e49645e602'
-    let token = '4cc59106c17d3aa1fe1c1ebb45ac6f6b703cb53893e17e409c38e92e0efb079b'
-    let boardShortLink = 'X8ns0cLS'
+    let key = ''
+    let token = ''
+    let boardShortLink = ''
 
     it('Authentication', ()=>{
         let resp = cy.request({
